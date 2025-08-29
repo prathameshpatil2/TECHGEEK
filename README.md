@@ -1,3 +1,3 @@
 # TECHGEEK
-THIS IS MY FIRST PROJECT
+THIS is my first Git Repository.
 Author - Prathamesh Patil
